@@ -1,0 +1,10 @@
+package.json
+package-lock.json
+dist/
+node_modules/
+coverage/
+*.md
+*.yml
+*.yaml
+*.json
+*.html
